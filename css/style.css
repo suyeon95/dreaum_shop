@@ -35,7 +35,7 @@ h1{position: absolute; left: 50%; margin-left: -130.5px; top: 50%; margin-top: -
 
 #category ul li{float: left; width: 25%; text-align: center;}
 #category ul li a{display: inline-block; padding: 3px 20px; border: #222 1px solid;}
-#category ul li a:hover{box-shadow: #777 3px 3px 0px;}
+#category ul li a:hover{box-shadow: #ccc 3px 3px 0px;}
 
 /* best */
 #best{width: 1320px; height: 700px; margin: 0 auto; text-align: center; font-family: 'GowunDodum-Regular';}
